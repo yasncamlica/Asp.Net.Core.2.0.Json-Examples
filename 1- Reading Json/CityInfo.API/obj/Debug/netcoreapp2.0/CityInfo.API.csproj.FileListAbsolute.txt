@@ -1,0 +1,11 @@
+/Users/OnurYilmaz/Desktop/Asp.Net Api/CityInfo/CityInfo.API/bin/Debug/netcoreapp2.0/CityInfo.API.deps.json
+/Users/OnurYilmaz/Desktop/Asp.Net Api/CityInfo/CityInfo.API/bin/Debug/netcoreapp2.0/CityInfo.API.runtimeconfig.json
+/Users/OnurYilmaz/Desktop/Asp.Net Api/CityInfo/CityInfo.API/bin/Debug/netcoreapp2.0/CityInfo.API.runtimeconfig.dev.json
+/Users/OnurYilmaz/Desktop/Asp.Net Api/CityInfo/CityInfo.API/bin/Debug/netcoreapp2.0/CityInfo.API.dll
+/Users/OnurYilmaz/Desktop/Asp.Net Api/CityInfo/CityInfo.API/bin/Debug/netcoreapp2.0/CityInfo.API.pdb
+/Users/OnurYilmaz/Desktop/Asp.Net Api/CityInfo/CityInfo.API/obj/Debug/netcoreapp2.0/CityInfo.API.csproj.CoreCompileInputs.cache
+/Users/OnurYilmaz/Desktop/Asp.Net Api/CityInfo/CityInfo.API/obj/Debug/netcoreapp2.0/CityInfo.API.AssemblyInfoInputs.cache
+/Users/OnurYilmaz/Desktop/Asp.Net Api/CityInfo/CityInfo.API/obj/Debug/netcoreapp2.0/CityInfo.API.AssemblyInfo.cs
+/Users/OnurYilmaz/Desktop/Asp.Net Api/CityInfo/CityInfo.API/obj/Debug/netcoreapp2.0/CityInfo.API.dll
+/Users/OnurYilmaz/Desktop/Asp.Net Api/CityInfo/CityInfo.API/obj/Debug/netcoreapp2.0/CityInfo.API.pdb
+/Users/OnurYilmaz/Desktop/Asp.Net Api/CityInfo/CityInfo.API/obj/Debug/netcoreapp2.0/CityInfo.API.csprojAssemblyReference.cache
